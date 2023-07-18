@@ -1,10 +1,10 @@
 {
   "name": "home",
   "author": "imsyy",
-  "github": "https://github.com/imsyy/home",
-  "home": "https://imsyy.top",
+  "github": "https://github.com/LiuyangAce/home",
+  "home": "https://home-ten-tawny.vercel.app",
   "private": true,
-  "version": "4.0.4",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite --host",
